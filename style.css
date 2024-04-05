@@ -1,4 +1,9 @@
 body{
-    background-color: #f097f3;
-    color:black
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+.logo{
+    width: 25%;
 }
