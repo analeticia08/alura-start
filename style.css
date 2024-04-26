@@ -1,20 +1,28 @@
 body{
-    background-color:#EE82EE;
+    background-color: #ff93ff;
     color: #ffffff;
 }
 
 .cabeçalho{
-    display:flex;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px;
 }
 
 .cabeçalho-lista-item{
-    display: inline-block;
-    margin: 0 50px;
-    font-size: 24px;
+        display: inline-block;
+        margin: 0 50px;
+        font-size: 24px;
 }
+
 .logo{
     width: 25%;
+}
+
+.escola-img{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#ff93ff,#28cde2);
 }
